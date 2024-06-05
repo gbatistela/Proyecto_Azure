@@ -1,15 +1,15 @@
 # PROYECTO NEWS ADDRESS ARGENTINA
 
 
-Introducción
+## Introducción
 
 Nuestro cliente, una empresa en tecnología, buscaba mejorar la gestión y análisis de sus datos de direcciones en Argentina, utilizando las herramientas y servicios de Azure. Este proyecto no solo implicaba la incorporación de nuevos registros, sino también la optimización del flujo de datos y su visualización.
 
-Objetivo:
+## Objetivo:
 
 Imagina una plataforma donde cada registro se integra sin problemas, se transforma, se limpia automáticamente y tiene una visualizacion accesible. Nuestro cliente visualizó un flujo de datos automatizado y transparente que reduciría el tiempo de procesamiento y mejoraría la calidad de los datos disponibles para la toma de decisiones estratégicas.
 
-Implementación
+## Implementación
 
 ## Paso 1: Ingesta de Datos
 Los nuevos registros de direcciones se añadieron a la base de datos SQL Server. Utilizando Integration Runtime, estos datos se conectaron a Azure, asegurando una transferencia segura y eficiente.
