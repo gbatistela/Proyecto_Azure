@@ -27,12 +27,12 @@ Se creó un pipeline en Azure Data Factory para gestionar el flujo de datos. Est
 Azure Databricks se utilizó para transformar y limpiar los datos. Aquí, se estandarizaron los nombres de las columnas y se realizaron otras transformaciones necesarias para garantizar la calidad y coherencia de los datos.
 
 ## Paso 4: Almacenamiento en Azure Storage (Gold)
-Los datos transformados se almacenaron en una cuenta de almacenamiento llamada "gold". Este almacenamiento seguro y escalable garantiza que los datos estén siempre disponibles para su análisis. aca puedes visualizar la creacion de las tablas [CreacionDeTablas](synapse/CreateViews.sql)
+Los datos transformados se almacenaron en una cuenta de almacenamiento llamada "gold". Este almacenamiento seguro y escalable garantiza que los datos estén siempre disponibles para su análisis. 
 
 ![](https://github.com/gbatistela/Proyecto_Azure/blob/main/assets/cuenta%20almacenamiento.png)
 
 ## Paso 5: Creación de la Base de Datos en Azure Synapse
-Se creó la base de datos dbgold en Azure Synapse Analytics, junto con las tablas necesarias para organizar los datos transformados.
+Se creó la base de datos dbgold en Azure Synapse Analytics, junto con las tablas necesarias para organizar los datos transformados. aca puedes visualizar la [creacion de tablas](synapse/CreateViews.sql)
 
 ![](https://github.com/gbatistela/Proyecto_Azure/blob/main/assets/vistas%20azure%20synapse.png)
 
