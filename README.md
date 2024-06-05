@@ -9,7 +9,7 @@ Nuestro cliente, una empresa en tecnología, buscaba mejorar la gestión y anál
 
 Imagina una plataforma donde cada registro se integra sin problemas, se transforma, se limpia automáticamente y tiene una visualizacion accesible. Nuestro cliente visualizó un flujo de datos automatizado y transparente que reduciría el tiempo de procesamiento y mejoraría la calidad de los datos disponibles para la toma de decisiones estratégicas.
 
-## Implementación
+## IMPLEMENTACION
 
 ## Paso 1: Ingesta de Datos
 Los nuevos registros de direcciones se añadieron a la base de datos SQL Server. Utilizando Integration Runtime, estos datos se conectaron a Azure, asegurando una transferencia segura y eficiente.
@@ -39,7 +39,7 @@ Se creó la base de datos dbgold en Azure Synapse Analytics, junto con las tabla
 ## Paso 6: Visualización en Power BI
 Finalmente, los datos se conectaron a Power BI, donde se crearon visualizaciones detalladas que permitían a la empresa analizar y comprender mejor los nuevos registros de direcciones.
 
- Antes:                                                                       Despues:
+ Antes/Despues
  
 ![](https://github.com/gbatistela/Proyecto_Azure/blob/main/assets/powerbi.jpg)
 
