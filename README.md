@@ -11,40 +11,43 @@ Imagina una plataforma donde cada registro se integra sin problemas, se transfor
 
 Implementación
 
-Paso 1: Ingesta de Datos
+## Paso 1: Ingesta de Datos
 Los nuevos registros de direcciones se añadieron a la base de datos SQL Server. Utilizando Integration Runtime, estos datos se conectaron a Azure, asegurando una transferencia segura y eficiente.
 
-# SQL SERVER NUEVOS REGISTROS
+
 ![](https://github.com/gbatistela/Proyecto_Azure/blob/main/assets/NuevosRegistros.png)
 
 
-Paso 2: Pipeline en Azure Data Factory
+## Paso 2: Pipeline en Azure Data Factory
 Se creó un pipeline en Azure Data Factory para gestionar el flujo de datos. Este pipeline organizó los datos en subcarpetas por cada tabla y almacenó los archivos en formato CSV.
 
 ![](https://github.com/gbatistela/Proyecto_Azure/blob/main/assets/pipeline%20datafactory.png)
  
 ![](https://github.com/gbatistela/Proyecto_Azure/blob/main/assets/pipeline.png)
 
-Paso 3: Transformación y Limpieza en Azure Databricks
+## Paso 3: Transformación y Limpieza en Azure Databricks
 Azure Databricks se utilizó para transformar y limpiar los datos. Aquí, se estandarizaron los nombres de las columnas y se realizaron otras transformaciones necesarias para garantizar la calidad y coherencia de los datos.
 
-Paso 4: Almacenamiento en Azure Storage (Gold)
+## Paso 4: Almacenamiento en Azure Storage (Gold)
 Los datos transformados se almacenaron en una cuenta de almacenamiento llamada "gold". Este almacenamiento seguro y escalable garantiza que los datos estén siempre disponibles para su análisis.
 
 ![](https://github.com/gbatistela/Proyecto_Azure/blob/main/assets/cuenta%20almacenamiento.png)
 
-Paso 5: Creación de la Base de Datos en Azure Synapse
+## Paso 5: Creación de la Base de Datos en Azure Synapse
 Se creó la base de datos dbgold en Azure Synapse Analytics, junto con las tablas necesarias para organizar los datos transformados.
 
 ![](https://github.com/gbatistela/Proyecto_Azure/blob/main/assets/vistas%20azure%20synapse.png)
 
-Paso 6: Visualización en Power BI
+## Paso 6: Visualización en Power BI
 Finalmente, los datos se conectaron a Power BI, donde se crearon visualizaciones detalladas que permitían a la empresa analizar y comprender mejor los nuevos registros de direcciones.
 
  Antes:
+ 
 ![](https://github.com/gbatistela/Proyecto_Azure/blob/main/assets/PowerBI.png)
 
  Despues:
+
+ 
 ![](https://github.com/gbatistela/Proyecto_Azure/blob/main/assets/PowerBI1.png)
 
 
