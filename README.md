@@ -15,10 +15,11 @@
 # POWER BI 
 ![](https://github.com/gbatistela/Proyecto_Azure/blob/main/assets/PowerBI.png)
 
+# SQL SERVER NUEVOS REGISTROS
+![](https://github.com/gbatistela/Proyecto_Azure/blob/main/assets/NuevosRegistros.png)
 # POWER BI 
 ![](https://github.com/gbatistela/Proyecto_Azure/blob/main/assets/PowerBI1.png)
 
-# SQL SERVER NUEVOS REGISTROS
-![](https://github.com/gbatistela/Proyecto_Azure/blob/main/assets/NuevosRegistros.png)
+
 
 
