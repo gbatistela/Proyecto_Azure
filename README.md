@@ -1,4 +1,4 @@
-# PROYECTO NEWS ADDRESS ARGENTINA
+# PROYECTO NEW ADDRESS ARGENTINA
 
 
 ## Introducción
@@ -8,6 +8,10 @@ Nuestro cliente, una empresa en tecnología, buscaba mejorar la gestión y anál
 ## Objetivo:
 
 Imagina una plataforma donde cada registro se integra sin problemas, se transforma, se limpia automáticamente y tiene una visualizacion accesible. Nuestro cliente visualizó un flujo de datos automatizado y transparente que reduciría el tiempo de procesamiento y mejoraría la calidad de los datos disponibles para la toma de decisiones estratégicas.
+
+# FLUJO DE TRABAJO
+Procesamiento de datos
+![](https://github.com/gbatistela/Proyecto_Azure/blob/main/assets/WORKFLOW.png)
 
 ## IMPLEMENTACION
 
