@@ -27,7 +27,7 @@ Se creó un pipeline en Azure Data Factory para gestionar el flujo de datos. Est
 Azure Databricks se utilizó para transformar y limpiar los datos. Aquí, se estandarizaron los nombres de las columnas y se realizaron otras transformaciones necesarias para garantizar la calidad y coherencia de los datos.
 
 ## Paso 4: Almacenamiento en Azure Storage (Gold)
-Los datos transformados se almacenaron en una cuenta de almacenamiento llamada "gold". Este almacenamiento seguro y escalable garantiza que los datos estén siempre disponibles para su análisis.
+Los datos transformados se almacenaron en una cuenta de almacenamiento llamada "gold". Este almacenamiento seguro y escalable garantiza que los datos estén siempre disponibles para su análisis. aca puedes visualizar la creacion de las tablas [CreacionDeTablas](synapse/CreateViews.sql)
 
 ![](https://github.com/gbatistela/Proyecto_Azure/blob/main/assets/cuenta%20almacenamiento.png)
 
