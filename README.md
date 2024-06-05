@@ -21,9 +21,7 @@ Los nuevos registros de direcciones se añadieron a la base de datos SQL Server.
 ## Paso 2: Pipeline en Azure Data Factory
 Se creó un pipeline en Azure Data Factory para gestionar el flujo de datos. Este pipeline organizó los datos en subcarpetas por cada tabla y almacenó los archivos en formato CSV.
 
-![](https://github.com/gbatistela/Proyecto_Azure/blob/main/assets/pipeline%20datafactory.png)
- 
-![](https://github.com/gbatistela/Proyecto_Azure/blob/main/assets/pipeline.png)
+![](https://github.com/gbatistela/Proyecto_Azure/blob/main/assets/pipeline%20datafactory.png) ![](https://github.com/gbatistela/Proyecto_Azure/blob/main/assets/pipeline.png)
 
 ## Paso 3: Transformación y Limpieza en Azure Databricks
 Azure Databricks se utilizó para transformar y limpiar los datos. Aquí, se estandarizaron los nombres de las columnas y se realizaron otras transformaciones necesarias para garantizar la calidad y coherencia de los datos.
