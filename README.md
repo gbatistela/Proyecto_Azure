@@ -11,7 +11,7 @@ Imagina una plataforma donde cada registro se integra sin problemas, se transfor
 
 # FLUJO DE TRABAJO
 Procesamiento de datos
-![](https://github.com/gbatistela/Proyecto_Azure/blob/main/assets/WORKFLOW.png)
+![](https://github.com/gbatistela/Proyecto_Azure/blob/main/assets/WORKFLOW.jpg)
 
 ## IMPLEMENTACION
 
