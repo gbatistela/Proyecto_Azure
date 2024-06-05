@@ -48,7 +48,7 @@ Finalmente, los datos se conectaron a Power BI, donde se crearon visualizaciones
  Despues:
 
  
-![](https://github.com/gbatistela/Proyecto_Azure/blob/main/assets/PowerBI1.png)
+![](https://github.com/gbatistela/Proyecto_Azure/blob/main/assets/001.png)
 
 
 
